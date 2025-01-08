@@ -1,0 +1,72 @@
+TRAVEL LOG
+*******************************
+Destination 1: Cape Town
+Destination 2: Cape Town
+Travel By: Cape Town
+*******************************
+TRAVEL LOG
+*******************************
+Destination 1: Cape Town
+Destination 2: Cape Town
+Travel By: Cape Town
+*******************************
+TRAVEL LOG
+*******************************
+Destination 1: Port Elizabeth
+Destination 2: Durban
+Travel By: Cape Town
+*******************************
+TRAVEL LOG
+*******************************
+Destination 1: Port Elizabeth
+Destination 2: Durban
+Travel By: Cape Town
+*******************************
+TRAVEL LOG
+*******************************
+Start Location: Cape Town
+End Location: Cape Town
+Travel By: Airplane
+*******************************
+TRAVEL LOG
+*******************************
+Start Location: Port Elizabeth
+End Location: Port Elizabeth
+Travel By: Train
+*******************************
+TRAVEL LOG
+*******************************
+Start Location: Cape Town
+End Location: Cape Town
+Travel By: Airplane
+*******************************
+TRAVEL LOG
+*******************************
+Start Location: Cape Town
+End Location: Cape Town
+Travel By: Airplane
+*******************************
+TRAVEL LOG
+*******************************
+Start Location: Cape Town
+End Location: Port Elizabeth
+Travel By: Airplane
+*******************************
+TRAVEL LOG
+*******************************
+Start Location: Cape Town
+End Location: Durban
+Travel By: Airplane
+*******************************
+TRAVEL LOG
+*******************************
+Start Location: Cape Town
+End Location: Durban
+Travel By: Airplane
+*******************************
+TRAVEL LOG
+*******************************
+Start Location: Cape Town
+End Location: Durban
+Travel By: Train
+*******************************
